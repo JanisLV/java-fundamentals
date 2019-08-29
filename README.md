@@ -1,12 +1,28 @@
 # Introduction
 
-Welcome to the Java Fundamentals module. <br>
+Welcome to the **Java Fundamentals** module!
+
 During this module you will learn the core concepts of Java programming language. <br>
-Every part of the theory will be followed by the live coding sessions 
-and exercises that should be done individually or with a little assistance of the trainer.
+Many of the covered topics are applicable to other languages like C, C++, C# or Python.
+
+Every part of the theory will be followed by the live coding session
+and exercises that should be done individually, with an assistance of the trainer.
+
+Some of the topics that are going to be explained during this module are:
+- Data types, variables, constants, operators, casting
+- String class
+- Conditional statements, visibility
+- Loops
+- Arrays
+- OOP (class, object, state, behaviour)
+- Fields, methods, constructors, packages, imports
+- varargs
+- Date, Time****
+- Regular expressions
+- Static fields, methods and classes
 
 ## Presentation
-At first please download the presentation, it is available under [this link](https://gitlab.com/sda-international/program/java/java-fundamentals/wikis/uploads/997688118c751dbea6450b2fa0db6d89/01_Java_Fundamentals.pdf).
+Presentation is available under [this link](https://gitlab.com/sda-international/program/java/java-fundamentals/wikis/uploads/997688118c751dbea6450b2fa0db6d89/01_Java_Fundamentals.pdf).
 
 ## Requirements
 
