@@ -17,7 +17,7 @@ Some of the topics that are going to be explained during this module are:
 - OOP (class, object, state, behaviour)
 - Fields, methods, constructors, packages, imports
 - varargs
-- Date, Time****
+- Date, Time
 - Regular expressions
 - Static fields, methods and classes
 
