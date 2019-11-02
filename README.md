@@ -22,7 +22,7 @@ Some of the topics that are going to be explained during this module are:
 - Static fields, methods and classes
 
 ## Presentation
-Presentation is available under [this link](https://gitlab.com/sda-international/program/java/java-fundamentals/wikis/uploads/997688118c751dbea6450b2fa0db6d89/01_Java_Fundamentals.pdf).
+Presentation is available under [this link](https://gitlab.com/sda-international/program/java/java-fundamentals/-/wiki_pages/uploads/997688118c751dbea6450b2fa0db6d89/01_Java_Fundamentals.pdf).
 
 ## Requirements
 
