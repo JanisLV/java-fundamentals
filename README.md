@@ -16,13 +16,9 @@ Some of the topics that are going to be explained during this module are:
 - Arrays
 - OOP (class, object, state, behaviour)
 - Fields, methods, constructors, packages, imports
-- varargs
-- Date, Time
-- Regular expressions
-- Static fields, methods and classes
 
 ## Presentation
-Presentation is available under [this link](https://gitlab.com/sda-international/program/java/java-fundamentals/wikis/uploads/997688118c751dbea6450b2fa0db6d89/01_Java_Fundamentals.pdf).
+Presentation is available under [this link](https://drive.google.com/open?id=1x7GPeVnjfJEGA1WLzTOoDSbG3NzHMgFt).
 
 ## Requirements
 
