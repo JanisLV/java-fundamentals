@@ -18,15 +18,7 @@ Some of the topics that are going to be explained during this module are:
 - Fields, methods, constructors, packages, imports
 
 ## Presentation
-<<<<<<< HEAD
-<<<<<<< HEAD
-Presentation is available under [this link](https://drive.google.com/open?id=1x7GPeVnjfJEGA1WLzTOoDSbG3NzHMgFt).
-=======
 Presentation is available in the root of this project, under [this link](https://gitlab.com/sda-international/program/java/java-fundamentals/-/blob/master/Java%20Fundamentals.pdf).
->>>>>>> TC-107: New Java Fundamentals Presentation
-=======
-Presentation is available in the root of this project, under [this link](https://gitlab.com/sda-international/program/java/java-fundamentals/-/blob/master/Java%20Fundamentals.pdf).
->>>>>>> TC-107: New Java Fundamentals Presentation
 
 ## Requirements
 
