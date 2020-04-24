@@ -26,7 +26,7 @@ We prepared exercises in IntelliJ with Edu Tool.
 
 Here you can download exercises [link]()
 
-Here we prepared instruction, how to install Edu tool in IntelliJ [link]()
+Here we prepared instruction, how to install Edu tool in IntelliJ [link](How_to_add_Edu_tool_to_IntelliJ_PyCharm.pdf)
 
 ## Requirements
 
