@@ -20,6 +20,14 @@ Some of the topics that are going to be explained during this module are:
 ## Presentation
 Presentation is available in the root of this project, under [this link](https://gitlab.com/sda-international/program/java/java-fundamentals/-/blob/master/Java%20Fundamentals.pdf).
 
+## Materials for Individual Workshop
+
+We prepared exercises in IntelliJ with Edu Tool. 
+
+Here you can download exercises [link]()
+
+Here we prepared instruction, how to install Edu tool in IntelliJ [link]()
+
 ## Requirements
 
 Before you start make sure that you have downloaded and installed required software:
