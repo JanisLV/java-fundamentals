@@ -24,7 +24,7 @@ Presentation is available in the root of this project, under [this link](https:/
 
 We prepared exercises in IntelliJ with Edu Tool. 
 
-Here you can download exercises [link](SDA_Java_EN.zip)
+Here you can download exercises [link](https://homeworks.java.en.sdacademy.pro/)
 
 Here we prepared instruction, how to install Edu tool in IntelliJ [link](How_to_add_Edu_tool_to_IntelliJ_PyCharm.pdf)
 
